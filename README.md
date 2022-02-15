@@ -3,4 +3,8 @@ En este repositorio intentaremos mostrar los diferentes tipos de gráficos para 
 
 La intención es ayudar a personas que están comenzando en el área, pero habrán conceptos que deberá investigar el lector.
 
+El repositorio se actualizará lentamenten dado que el tiempo invertido en esto será escaso.
+
+Espero les ayude.
+
 
